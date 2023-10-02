@@ -4,7 +4,8 @@ in `lib/`, and example unit test in `test/`.
 **KUIS 1**
 
 1. Pada kode di soal kegunaan print untuk mencetak/menampilkan teks atau value yang terdapat
-di dalam perintah print.
+di dalam perintah print. Di mana pada nomor 1, teks di dalam perintah 'print' yaitu berisi
+'Hello World'.
 
 ![Screenshot nomor 1](img/nomor1.png)
 
@@ -42,5 +43,35 @@ array2.
 
 ![Screenshot nomor 4](img/nomor4.png)
 
-5. Pada soal tugas 4, baris pertama terdapat
+5. Pada soal tugas 4, baris pertama terdapat variabel bernama 'number1' dengan tipe data 'int'. Tipe data int
+dapat menampung value bilangan bulat dan nilai dari number1 diinisialisasi dengan nilai 100. Begitu juga dengan
+baris kedua terdapat variabel bernama 'number2' dengan tipe data 'double'. Tipe data double dapat menampung bilangan
+desimal dan number2 diinisialisasi dengan nilai 100,5. Lalu terdapat sintaks print yang digunakan untuk mencetak
+nilai dari number1 dan number2
+
+![Screenshot nomor 5](img/nomor5.png)
+
+6. Pada tugas 5, baris pertama mendefinisikan sebuah variabel bernama 'number' dengan tipe data 'num'. Di mana tipe data 'num' dapat menampung semua bilangan baik bulat maupun pecahan. Lalu pada baris kedua memanggil sintaks print untuk mencetak nilai dari number. Pada baris ketiga, dilakukan pergantian nilai yang ada pada variabel dari 10 menjadi 10,5. Hal tersebut dapat terjadi karena tipe data 'num' memungkinkan perubahan tersebut yaitu merubah bilangan bulat menjadi bilangan pecahan. Lalu di baris selanjutnya, memanggil sintaks print untuk mencetak nilai dari variabel 'number' yang telah diperbarui.
+
+![Screenshot nomor 6](img/nomor6.png)
+
+7. Pada tugas 6, baris pertama terdapat variabel 'firstName' dengan tipe data 'String'. Begitu juga dengan baris kedua terdapat variabel 'lastName' dengan tipe data 'String'. Dan pada baris ketiga terdapat sebuah variabel baru yang bernama fullName yang digunakan untuk menggabungkan (konkatenasi) dua string yaitu firstName dan lastName menggunakan interpolasi string.
+
+![Screenshot nomor 7](img/nomor7.png)
+
+8. Pada tugas 7, baris pertama merupakan cara mengaplikasikan penggunaan "\'" yang di mana digunakan menyisipkan tanda kutip tunggal pada sebuah string. Lalu di bawahnya terdapat sintaks untuk mencetak value dari variabel 'text'.
+
+![Screenshot nomor 8](img/nomor8.png)
+
+9. Pada tugas 8, baris pertama terdapat sebuah variable 'name1' di mana menggabungkan value dari variabel firstName dan lastName menjadi satu. Sedangkan, pada baris kedua terdapat variabel 'name2' di mana memiliki value string yaitu 'joko', 'anton', dan 'jodi'. Lalu di bawahnya, terdapat sintaks print untuk mencetak value dari variabel name1 dan name2.
+
+![Screenshot nomor 9](img/nomor9.png)
+
+10. Pada tugas 9 merupakan bentuk yang disempurnakan dari tugas 8 di mana menambahkan spasi setelah kata 'joko'. Pada baris pertama menambahkan " " di tengah-tengah dari firstName dan lastName. Dan pada baris kedua menambahkan spasi di setiap stringnya seperti berikut ' anton'. Lalu di bawahnya diberi sintaks print untuk mencetak value dari name1 dan name2.
+
+![Screenshot nomor 10](img/nomor10.png)
+
+11. Pada tugas 10 terdapat penggunaan tanda kutip tiga (''') yang di mana digunakan untuk membuat string yang multiline. Dan pada kode di soal diinisialisasi dengan variabel bernama 'kalimat_panjang'. Dan di bawah menggunakan sintaks print untuk mencetak variabel 'kalimat_panjang'.
+
+![Screenshot nomor 11](img/nomor11.png)
 
